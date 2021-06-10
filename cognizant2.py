@@ -2,6 +2,7 @@ from math import sqrt
 T=int(input())           
 arr=[]                  
 for  j in range(T):
+        
         L,R=input().split()
         L=int(L)    
         R=int(R)    
